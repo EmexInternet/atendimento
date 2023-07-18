@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a219e9e8.css",
+    "main.js": "/static/js/main.18aef556.js",
+    "static/media/emex.png": "/static/media/emex.6b221a936d2d4df2c131.png",
+    "static/media/emex-mobile.png": "/static/media/emex-mobile.21487cafa19725764489.png",
+    "static/media/logo.png": "/static/media/logo.87698b8c6d67d033e1d2.png",
+    "index.html": "/index.html",
+    "main.a219e9e8.css.map": "/static/css/main.a219e9e8.css.map",
+    "main.18aef556.js.map": "/static/js/main.18aef556.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a219e9e8.css",
+    "static/js/main.18aef556.js"
+  ]
+}
