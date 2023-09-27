@@ -141,7 +141,7 @@ class Vencimento{
     
       let prazo_faturamento = 14
   
-      if(parseInt(dia_contato) < dia_antigo){ //antes de pagar o boleto do mesmo mes
+      if(parseInt(dia_contato) <= dia_antigo){ //antes de pagar o boleto do mesmo mes
   
         let diferenca_dias = Math.abs(dia_antigo - dia_contato)
   
@@ -419,7 +419,7 @@ class Vencimento{
   
   
   
-      if(parseInt(dia_contato) < dia_antigo){ //antes faturado  //antes de pagar o boleto
+      if(parseInt(dia_contato) <= dia_antigo){ //antes faturado  //antes de pagar o boleto
   
   
         let diferenca_dias = Math.abs(dia_antigo - dia_contato)
